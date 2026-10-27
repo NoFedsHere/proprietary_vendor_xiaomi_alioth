@@ -515,6 +515,7 @@ PRODUCT_PACKAGES += \
     batterysecret \
     displayfeature \
     hvdcp_opti \
+    vendor.qti.hardware.display.composer-service \
     vendor.qti.hardware.sensorscalibrate@1.0-service \
     vendor.xiaomi.hardware.citsensorservice@1.1-service \
     vendor.xiaomi.hardware.displayfeature@1.0-service \
